@@ -39,9 +39,8 @@
 ## 下载与使用教程
 1. **下载可执行文件**  
    - 前往 [Releases页面](https://github.com/nokiruy/Noki-NTE-Auto/releases)
-   - 游戏语言为简中，下载Noki_NTE_Auto-v...-Chinese (Simplified).exe
-   - 游戏语言为繁中，下载Noki_NTE_Auto-v...-Chinese (Traditional).exe
-   - 作者b站主页的关于脚本的视频的分P中有教程，也可在用户交流内我求助
+   - 或者 [百度网盘](https://pan.baidu.com/s/1k02bSxDGAkqbqt4com68Ng?pwd=saki) 提取码: saki
+   - 作者b站主页的关于脚本的视频的分P中有教程，也可在用户交流群内向我求助
 
 
 本项目基于以下技术实现：
